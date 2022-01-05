@@ -1,0 +1,1 @@
+export { default } from "C:\\Users\\Fz\\Desktop\\myBlog\\node_modules\\@vuepress\\plugin-blog\\lib\\client\\pagination.js"
